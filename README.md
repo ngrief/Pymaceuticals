@@ -40,8 +40,7 @@ This project is useful for:
 - Researchers interested in tumor growth modeling
 
 ## Contributors
-Developed by [Your Name] as part of a data analysis case study. For inquiries, contact: [your.email@example.com] or connect via LinkedIn.
-
+Developed by Nathaniel Trief 2025
 ## License
 This project is open-source under the MIT License.
 
